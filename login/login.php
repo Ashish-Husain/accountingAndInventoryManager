@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>EverFirst</title>
+		<title>Accounting And Inventory Manager</title>
 		<meta charset="utf-8"/>		
 		<link rel="stylesheet" href="../css/login.css"/>
 		<script type="text/javascript" src="../js/main.js"></script>
@@ -25,7 +25,7 @@ session_start();
 		
 			<div class="content fix">	
 				<div style='margin:0 auto;' class="logo_Cname fix">
-				<img class="logo"src="../images/service.png"/><span id="cName">EVERFIRST TECHNOLOGY LTD.</span>
+				<img class="logo"src="../images/service.png"/><span id="cName">Accounting And Inventory Manager</span>
 				</div>
 				<form action="loginAction.php" method="POST">
 				<table class="loginTable">

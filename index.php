@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>EverFirst Technology Ltd</title>
+		<title>Accounting And Inventory Manager</title>
 		<meta charset="utf-8"/>		
 		<link rel="stylesheet" href="css/login.css"/>
 	</head>
@@ -19,7 +19,7 @@
 	}	
 	?>
 				<div style='margin:0 auto;' class="logo_Cname fix">
-				<img class="logo"src="images/service.png"/><span id="cName">EVERFIRST TECHNOLOGY LTD.</span>
+				<img class="logo"src="images/service.png"/><span id="cName">Accounting And Inventory Manager</span>
 				</div>
 				<table class="designition">
 					<tr>

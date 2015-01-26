@@ -1,1 +1,2 @@
-# accountingAndInventoryManager
+# Accounting And Inventory Manager:
+
